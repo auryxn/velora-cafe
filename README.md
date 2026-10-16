@@ -1,6 +1,6 @@
 # Velora Café
 
-> Часть портфолио: [сайт-портфолио](https://auryxn.github.io/site-admin/) — репозиторий сайта [site-admin](https://github.com/auryxn/site-admin).
+> Часть портфолио: [auryxn.codes](https://auryxn.codes) — репозиторий сайта [site-admin](https://github.com/auryxn/site-admin).
 
 > Сайт кофейни/ресторана с редактируемой админкой: публичная страница (React/Vite) + REST API на Node + SQLite.
 
