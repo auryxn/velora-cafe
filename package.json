@@ -1,0 +1,27 @@
+{
+  "name": "velora-cafe",
+  "private": true,
+  "version": "0.2.0",
+  "description": "Velora Café — restaurant site (React/Vite) + Node backend with SQLite + admin panel",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite --host 0.0.0.0",
+    "preview": "vite preview --host 0.0.0.0",
+    "db:seed": "node server/db.js --seed",
+    "dev:server": "node server/index.js",
+    "start": "node server/index.js"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "latest",
+    "@vitejs/plugin-react": "latest",
+    "lucide-react": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "latest",
+    "typescript": "latest",
+    "vite": "latest"
+  },
+  "devDependencies": {
+    "playwright": "^1.61.1"
+  }
+}
